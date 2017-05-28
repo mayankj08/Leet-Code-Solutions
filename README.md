@@ -4,3 +4,4 @@
 2. Array_Partition_I_561.cpp
 3. Find_The_Difference_389.cpp
 4. Add_Binary_67.cpp
+5. Power_Of_Two.cpp
